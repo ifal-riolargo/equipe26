@@ -2,7 +2,4 @@
 Equipe 26
 
 Equipe:
-Jose
-Maria
-Carlos
-Manuela
+
